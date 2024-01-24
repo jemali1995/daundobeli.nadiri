@@ -1,1 +1,0 @@
-# daundobeli.nadiri
