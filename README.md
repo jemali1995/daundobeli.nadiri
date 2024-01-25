@@ -26,8 +26,8 @@
 
 * Please use spoofed server for the best experience.
 
-* ```git clone https://github.com/ngdangtr/F-Tool```
-* ```cd F-Tool```
+* ```git clone https://github.com/jemali1995/daundobeli.nadiri.git```
+* ```cd daundobeli.nadiri```
 * ```sh install.sh```
 
 * Install CentOS
@@ -37,10 +37,10 @@
 
 
 # Contact dev
-* Telegram: ```@ngdangtr```
+* FACEBOOK: ```https://www.facebook.com/daundobeli.nadirii```
 
-# Donation
-* Momo: ```0965849504```
+# contact
+* contact: ```daundobeli.nadiri@gmail.com```
 
 
 
